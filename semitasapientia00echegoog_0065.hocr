@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./semitasapientia00echegoog_0065.png"; bbox 0 0 2649 4014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 441 181 2058 293">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 441 171 2058 293">
+     <span class='ocr_line' id='line_1_1' title="bbox 441 181 2058 293; baseline -0.004 -19"><span class='ocrx_word' id='word_1_1' title='bbox 441 192 564 274; x_wconf 60' lang='lat' dir='ltr'>*AD</span> <span class='ocrx_word' id='word_1_2' title='bbox 620 200 1079 270; x_wconf 61' lang='lat' dir='ltr'>seramus</span> <span class='ocrx_word' id='word_1_3' title='bbox 1136 181 1835 271; x_wconf 68' lang='lat' dir='ltr'>coMPARANnAsI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1886 221 1888 224; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 1953 197 2058 293; x_wconf 50' lang='lat' dir='ltr'>a}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 283 320 2054 642">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 283 320 2054 642">
+     <span class='ocr_line' id='line_1_2' title="bbox 285 320 2054 428; baseline -0.001 -14"><span class='ocrx_word' id='word_1_6' title='bbox 285 324 645 414; x_wconf 79' lang='lat' dir='ltr'>naturam</span> <span class='ocrx_word' id='word_1_7' title='bbox 679 327 1011 428; x_wconf 77' lang='lat' dir='ltr'>relaxat,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1046 332 1330 407; x_wconf 79' lang='lat' dir='ltr'><strong>mentis</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1364 320 1742 410; x_wconf 80' lang='lat' dir='ltr'>obtundi-t</span> <span class='ocrx_word' id='word_1_10' title='bbox 1777 330 2054 413; x_wconf 68' lang='lat' dir='ltr'>aciem,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 283 434 2054 554; baseline -0.003 -27"><span class='ocrx_word' id='word_1_11' title='bbox 283 447 603 527; x_wconf 77' lang='lat' dir='ltr'><strong>incuriae</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 620 443 873 554; x_wconf 80' lang='lat' dir='ltr'>arguit</span> <span class='ocrx_word' id='word_1_13' title='bbox 889 438 998 519; x_wconf 91' lang='lat' dir='ltr'>stu</span> <span class='ocrx_word' id='word_1_14' title='bbox 1007 434 1314 521; x_wconf 82' lang='lat' dir='ltr'>diosum</span> <span class='ocrx_word' id='word_1_15' title='bbox 1334 506 1356 538; x_wconf 82' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_16' title='bbox 1391 467 1483 518; x_wconf 86' lang='lat' dir='ltr'>ac</span> <span class='ocrx_word' id='word_1_17' title='bbox 1500 434 1830 523; x_wconf 84' lang='lat' dir='ltr'><strong>demum</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1848 468 2054 551; x_wconf 66' lang='lat' dir='ltr'>tem-5</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 288 550 1735 642; baseline 0.001 -6"><span class='ocrx_word' id='word_1_19' title='bbox 288 586 431 642; x_wconf 75' lang='lat' dir='ltr'>nus</span> <span class='ocrx_word' id='word_1_20' title='bbox 470 555 830 639; x_wconf 79' lang='lat' dir='ltr'>omnium</span> <span class='ocrx_word' id='word_1_21' title='bbox 867 550 1486 642; x_wconf 77' lang='lat' dir='ltr'>otetiofiffimum</span> <span class='ocrx_word' id='word_1_22' title='bbox 1526 558 1735 637; x_wconf 84' lang='lat' dir='ltr'>terit.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

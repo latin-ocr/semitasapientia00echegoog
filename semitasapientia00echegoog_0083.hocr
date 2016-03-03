@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./semitasapientia00echegoog_0083.png"; bbox 0 0 2649 4014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 202 274 1985 522">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 202 274 1985 522">
+     <span class='ocr_line' id='line_1_1' title="bbox 427 274 1984 395; baseline 0.003 -31"><span class='ocrx_word' id='word_1_1' title='bbox 427 280 551 364; x_wconf 72' lang='lat' dir='ltr'><em>&#39;An</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 613 294 1070 363; x_wconf 62' lang='lat' dir='ltr'><em>scaurus</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1131 274 1827 367; x_wconf 61' lang='lat' dir='ltr'><strong>eonnRAnnA&#39;s&#39;.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1884 282 1984 395; x_wconf 66' lang='lat'><em>&#39;39&#39;</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 202 416 1985 522; baseline 0 -11"><span class='ocrx_word' id='word_1_5' title='bbox 202 423 416 511; x_wconf 82' lang='lat' dir='ltr'><em>mihi</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 436 426 903 506; x_wconf 71' lang='lat' dir='ltr'><em>documentum</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 919 426 1380 522; x_wconf 73' lang='lat' dir='ltr'><em>aliquod,.que</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1403 416 1740 522; x_wconf 52' lang='lat' dir='ltr'><em>proficiam</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1755 436 1985 522; x_wconf 62' lang='lat' dir='ltr'><em>inffa-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

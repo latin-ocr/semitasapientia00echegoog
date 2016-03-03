@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./semitasapientia00echegoog_0089.png"; bbox 0 0 2649 4014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 370 210 2153 457">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 370 210 2153 457">
+     <span class='ocr_line' id='line_1_1' title="bbox 430 210 2043 338; baseline 0.001 -26"><span class='ocrx_word' id='word_1_1' title='bbox 430 237 574 312; x_wconf 60' lang='lat' dir='ltr'><em>Ab</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 612 211 1076 308; x_wconf 60' lang='lat' dir='ltr'><strong>scam-ms</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1106 210 1831 310; x_wconf 48' lang='lat' dir='ltr'><em>commumoni</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1953 248 2043 338; x_wconf 67' lang='grc' dir='ltr'><em>ες</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 370 350 2153 457; baseline -0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 370 369 725 457; x_wconf 54' lang='lat' dir='ltr'><em>Patientia</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 759 379 945 451; x_wconf 76' lang='lat' dir='ltr'><em>enim</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 978 365 1103 450; x_wconf 66' lang='lat' dir='ltr'><em>tua‘⁸</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1136 378 1475 450; x_wconf 51' lang='lat' dir='ltr'><em>interim&amp;</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1505 377 1723 451; x_wconf 64' lang='lat' dir='ltr'><em>iduma</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2144 350 2153 360; x_wconf 43' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
